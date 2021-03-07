@@ -117,17 +117,6 @@ search functionality for it.Therafter we started with the websit's backend that 
 done successfully, add it to the front end React App. And at the end we design the pages using outsource template (Material Kit React Creative Tim), SCSS, CSS, and Bootstrap.
 
 
-<!-- CONTACT -->
-## Contributers
-
-Alaa Alzahrani - [LinkedIn](https://www.linkedin.com/in/alaa-alz/) - [Github](https://github.com/xloli20)
-
-Afnan Alfulaij - [LinkedIn](https://www.linkedin.com/in/afnan-alfulaij/
-) - [Github](https://git.generalassemb.ly/afnanaaf)
-
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Deezer API](https://developers.deezer.com/api)
